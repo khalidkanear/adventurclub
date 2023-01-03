@@ -1,0 +1,1 @@
+class CreateAdventureStep2OneModel { }
