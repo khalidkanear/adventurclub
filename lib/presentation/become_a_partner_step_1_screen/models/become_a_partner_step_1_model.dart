@@ -1,0 +1,1 @@
+class BecomeAPartnerStep1Model { }
